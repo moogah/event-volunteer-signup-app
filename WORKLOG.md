@@ -1,9 +1,9 @@
 # Changelog
 
-get_interested_volunteers and get_tasks_by_desireability in `assignment_server.py` have implementations
-get_task_desirability_score in `volunteer.py` has an implementation
-`unit_test.py` contains tests for all 3 of the above
-`run_volunteer.sh` has been modified to run the unit tests, and to fail loudly if they do not pass.
+- get_interested_volunteers and get_tasks_by_desireability in `assignment_server.py` have implementations
+- get_task_desirability_score in `volunteer.py` has an implementation
+- `unit_test.py` contains tests for all 3 of the above
+- `run_volunteer.sh` has been modified to run the unit tests, and to fail loudly if they do not pass.
 
 # Getting Started
 
